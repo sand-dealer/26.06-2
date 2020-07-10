@@ -32,7 +32,7 @@ msgstr "Las aplicaciones de la Cumbre de Colaboradores AMP 2019 ya están abiert
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
-msgstr "Marco AMP"
+msgstr "Marco Marco Marco Marco Marco Marco Marco AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
